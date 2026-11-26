@@ -2,12 +2,6 @@
 
 Manual functional testing of an e-commerce demo website.
 
-**Application under test:** https://practicesoftwaretesting.com
-
-## Scope
-
-Login, Registration, Product search, Shopping cart, Coupon application, Checkout and Payment.
-
 ## Deliverables
 
 | File | Contents |
@@ -16,8 +10,6 @@ Login, Registration, Product search, Shopping cart, Coupon application, Checkout
 | `Bug-Reports.xlsx` | Bug report with all 15 bugs |
 | `Test-Scenarios.xlsx` | Module-wise test scenarios with priority and test case count |
 
-Each test case has: ID, Module, Scenario, Preconditions, Steps, Test Data, Expected Result, Actual Result and Status.
-Each bug has: ID, Title, Module, Steps to Reproduce, Expected Result, Actual Result, Severity and Priority.
 
 ## Test Summary
 
@@ -55,4 +47,4 @@ Main issues:
 
 ## Status Values
 
-Pass, Fail, Blocked, Not Run
+Pass, Fail
